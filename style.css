@@ -1,0 +1,32 @@
+/*
+Theme name: zBoomMuisc
+Theme URI: http://www.phphyperteam.com/zboommusic;
+Author: Hyperteam;
+Author URI: http://www.phphyperteam.com/;
+Version: 1.0;
+Description: Two column simple theme;
+Textdomain:zboom;
+*/
+.comment-body .comment-author img{
+
+
+	height: 30px;
+	width: 30px;
+}
+
+.nav-links a.page-numbers{
+
+	background-color: white !important;
+	color: black;
+	padding: 10px;
+	font-weight: bold;
+
+}
+.nav-links span.current{
+
+
+	background-color: red;
+	color: black;
+	padding: 10px;
+	font-weight: bold;
+}
